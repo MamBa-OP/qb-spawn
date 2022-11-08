@@ -26,8 +26,8 @@ Spawn Selector for QB-Core Framework :eagle:
 - [qb-apartment](https://github.com/qbcore-framework/qb-apartment) - Lets player select the apartment
 - [rbrp-garages](https://github.com/qbcore-framework/rbrp-garages) - For house garages
 
-## Screenshots
-![Spawn selector](https://i.imgur.com/nz0mPGe.png)
+## PREVIEW YT
+!Preview: https://youtu.be/7oxBR_5IzXU
 
 ## Features
 - Ability to select spawn after selecting the character
