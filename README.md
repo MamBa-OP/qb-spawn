@@ -4,7 +4,7 @@ Spawn Selector for QB-Core Framework :eagle:
 # Edited By
 !                         MamBa#4107
 
-#Main Author
+# Main Author
 MoneSuper#0001
 
 
