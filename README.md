@@ -66,3 +66,7 @@ QB.Spawns = {
     },
 }
 ```
+
+
+<p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/qb-spawn-replace/count.svg" />
