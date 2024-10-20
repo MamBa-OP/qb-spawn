@@ -1,3 +1,6 @@
+- Buy Me Coffee ☕
+https://buymeacoffee.com/mambaop
+
 # qb-spawn
 Spawn Selector for QB-Core Framework :eagle:
 
